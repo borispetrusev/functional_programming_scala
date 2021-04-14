@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/boris/IdeaProjects/functional_programming_principles_in_scala/week1/recfun/src/main/scala/recfun/RecFun.scala:31:26: comparing values of types Char and String using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m      else if (chars.head==")") loop(chars.tail, bal-1)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
